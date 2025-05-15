@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Cendriers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "Nom/id": "2", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.649487865924942, 44.883983939583992 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nom/id": "3", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.649119781104568, 44.884334033538231 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nom/id": "1", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.648700765754853, 44.885137337088615 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nom/id": "4", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.64702580104738, 44.885486903918739 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Nom/id": "5", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.647438429583395, 44.885146484580986 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Nom/id": "6", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.64782060401201, 44.885678999953157 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Nom/id": "7", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.636555315152487, 44.879793907395026 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Nom/id": "8", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.635860791996954, 44.86854763726835 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Nom/id": "9", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.652651958354321, 44.881034123378029 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Nom/id": "10", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.637432853057827, 44.890307957283177 ] } },
+{ "type": "Feature", "properties": { "id": 11, "Nom/id": "11", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.632664769650111, 44.873295519649751 ] } },
+{ "type": "Feature", "properties": { "id": 12, "Nom/id": "12", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.650576806561713, 44.871691679976166 ] } },
+{ "type": "Feature", "properties": { "id": 13, "Nom/id": "13", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.650650409047737, 44.87191662778276 ] } },
+{ "type": "Feature", "properties": { "id": 14, "Nom/id": "14", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.644234426213805, 44.871833122149454 ] } },
+{ "type": "Feature", "properties": { "id": 15, "Nom/id": "15", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.648502801989984, 44.86456258421844 ] } },
+{ "type": "Feature", "properties": { "id": 16, "Nom/id": "16", "Y": null, "z": null }, "geometry": { "type": "Point", "coordinates": [ -0.632973734543193, 44.88151191431885 ] } }
+]
+}
